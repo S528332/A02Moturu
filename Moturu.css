@@ -1,0 +1,192 @@
+body{
+background-color: #F0F8FF ;
+max-height: 100%;
+max-width: 100%;
+background-image: url("background.jpg");
+}
+#Aboutme{
+width: 55%;height: 40px;background-color: #DCDCDC;border-radius: 5px;font-size: 30px;
+font-family: sans-serif;padding-left: 45%;opacity: 0.5;
+
+}
+
+.col-12-12{
+	background-color: lightblue;
+}
+	button{
+		width: 50%;
+		height: 50px;
+	}
+.nameDetail{
+width: 70%;height: 100px;background-color: #DCDCDC;border-radius: 10px;
+padding-left: 10%;position: relative;opacity: 1;font-size: 20px;float: left;
+}
+.nameDetail:hover{
+width: 70%;height: 100	px;background-color: #DCDCDC;border-radius: 10px;
+padding-left: 10%;position: relative;opacity: 0.9;left:0px;float: left;
+}
+.areasInterest{
+width: 90%;height: 250px;background-color: lightblue;border-radius: 10px;
+padding-left: 10%;position: relative;opacity: 0.7;font-size: 20px;
+
+top:250px;
+
+}
+
+.CollegeTable{
+background-color: lightyellow;width: 80%; padding: 2px; 
+margin: 5%;font-family: monospace;
+font-size: 20px;border: 2px solid gray; border-spacing: 20px;
+}
+span{
+color:blue;
+}
+span:hover {
+color:orange;
+}
+td{
+outline-style: solid;
+}
+.imageDetail{
+	width:160px;height:160px;
+}
+.imageDiv{
+	top: 20px;
+	left:80px;
+	width: 20%;position: relative;float: left;
+}
+.topDiv{
+	width: 100%;
+	height: 200px;
+	background-color: lightblue;
+	border-radius: 10px;
+	position: relative;
+	top: 30px;opacity: 0.7;
+}
+.tableDiv{
+	position: relative;top: 250px;border-radius: 10px;
+	background-color: lightblue;opacity: 0.7;
+}
+.videoDiv{
+	top:200px;
+	height: 500px;
+	background-color: black;	
+	padding-left: 250px;
+	position: relative;
+	
+}
+.menuDiv{
+	width:10%;
+	
+	position: relative;
+	float: left;
+	height: 200px;
+}
+.menuDiv2{
+	width: 90%;
+	height: 200px;
+	position: relative;
+	float: left;
+	
+}
+.tabDiv{
+	width: 90%;
+	height: 46px;
+	background-color: lightblue;
+	position: relative;
+	float: left;
+	padding: 10px;
+	border-radius: 5px;
+}
+.tabDiv:hover{
+		width: 90%;
+	height: 46px;
+	position: relative;
+	float: left;
+	padding: 10px;
+	background-color: lightsalmon;
+	
+}
+.formDiv{
+	background-color: lightcyan;
+	width: 100%;
+	opacity: 0.8;
+	position: relative;
+	float: left;
+	top:150px;
+	border-radius: 5px;
+	height: 400px;
+
+}
+a{
+	text-decoration: none;
+}
+.formTable{
+	padding: 40px;
+	max-height: 100%;
+	width: 100%;
+	background-color: lightgoldenrodyellow;	
+	border-style: none;
+
+}
+.textBox{
+	width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    border: 2px solid #555;
+	border-radius: 5px;
+	
+}
+
+.buttonDiv{
+	
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    border: 2px solid #555;
+	border-radius: 5px;
+	cursor: default;
+}
+.textInputDiv{
+	width: 95%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    border: 2px solid #555;
+	border-radius: 5px;
+	
+}
+.socialConnectDiv{
+	background-color: lightslategray;
+	width: 100%;
+	height: 50px;
+	position: relative;
+	float: left;top:100px;
+}
+.socialConnectDivTab{
+	width: 25%;
+	height: 50px;
+	background-color: lightgreen;
+	position: relative;
+	float: left;
+	text-align: center;
+	border-radius: 5px;
+}
+.socialConnectDivTab:hover{
+	width: 25%;
+	height: 50px;
+	background-color: lightcoral;
+	text-align: center;
+	position: relative;
+	float: left;
+	border-radius: 5px;
+}
+.calculationDiv{
+	width: 100%;
+	max-height: 100%;
+	min-height: 200px;
+	background-color: lightsteelblue;
+	position: relative;
+	float: left;
+	top:50px;
+	border-radius: 5px;
+}
